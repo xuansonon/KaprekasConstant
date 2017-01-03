@@ -37,3 +37,4 @@ KaprekasRoutine(6589) = 2
 **Still to do**<br />
 - [ ] Support invalid inputs (such as 2 digit numbers)
 - [ ] Support for leading zeros with a singular end digit (i.e. 0003)
+- [ ] Research and implement a better method for Int to Double conversion (i.e (ArrayList.size() - 1) * 1.0);)
